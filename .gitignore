@@ -1,0 +1,14 @@
+# Local credentials and Streamlit deployment secrets
+.env
+.streamlit/secrets.toml
+
+# Local Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
