@@ -12,7 +12,7 @@ from pathlib import Path
 
 import streamlit as st
 
-from core import report
+
 from core.parser import extract_text
 from core.analyzer import analyze_job_description, analyze_candidate
 from core.matcher import (
