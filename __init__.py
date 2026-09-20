@@ -1,0 +1,3 @@
+"""
+HireFlow core package.
+"""
