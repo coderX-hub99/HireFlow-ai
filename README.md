@@ -24,6 +24,10 @@
 
 <p align="center">
 
+![🤖 HireFlow AI App -
+Output](./ai.png)
+
+
   An agentic AI recruitment system that analyzes job requirements, evaluates candidate evidence, identifies uncertainty, generates targeted interview questions, and dynamically follows up when more evidence is required.
 
 </p>
